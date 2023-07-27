@@ -3,7 +3,7 @@
 <h3 align="center">An active learner in the field of computer science and engineering,committed to continuously improving my skills one day at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayorshi-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="prayorshi-mishra" /> </p>
-<img align="right" alt="Coding"  width="300px" src="[https://art.pixilart.com/sr2712ab0b35ecd.gif](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk)"> 
+<img align="right" alt="Coding"  width="300px" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk"> 
 - 🔭 I’m currently working on **Java Programming**
 
 - 💬 Ask me about **Java**
