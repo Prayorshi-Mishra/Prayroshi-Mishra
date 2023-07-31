@@ -3,7 +3,7 @@
 <h3 align="center">Full-stack developer with a passion for building elegant solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayorshi-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="prayorshi-mishra" /> </p>
-<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
+<img align="right" width="400" height="300" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
 
 - 🌱 I’m currently learning **JAVA**
 
