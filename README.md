@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Prayorshi Mishra</h1>
 <h3 align="center">Full-stack developer with a passion for building elegant solutions</h3>
 
